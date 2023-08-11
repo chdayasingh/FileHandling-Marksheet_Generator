@@ -1,0 +1,22 @@
+		University of Delhi
+			Delhi
+
+Student name: SurbhiNew
+programme: M.Sc. (CS)
+Roll Number: CS014
+
+Sub1: 100
+Sub2: 100
+Sub3: 100
+Sub4: 100
+Sub5: 100
+
+Total Marks: 500
+Percentage: 100.0
+
+Year of passing: 2023
+
+
+Date of Issue: 2023-03-09
+
+Signing Authority

@@ -1,0 +1,22 @@
+		University of Delhi
+			Delhi
+
+Student name: Himani
+programme: MCA
+Roll Number: CS110
+
+Sub1: 89
+Sub2: 89
+Sub3: 89
+Sub4: 88
+Sub5: 99
+
+Total Marks: 454
+Percentage: 90.8
+
+Year of passing: 2022
+
+
+Date of Issue: 2023-03-13
+
+Signing Authority

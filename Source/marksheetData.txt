@@ -1,0 +1,6 @@
+4
+Name of student, Roll numner, programme Name, Year of Award, Sub1, Sub2, Sub3, Sub4, Sub5
+Dhruv, CS001, MCA, 2024, 92, 91, 90, 93, 92
+Himani, CS010, MCA, 2024, 91, 73, 89, 85, 88
+Surbhi, CS014, M.Sc. (CS), 2023, 95, 95, 85, 87, 88
+Himani, CS110, MCA, 2022, 89, 89, 89, 88, 99

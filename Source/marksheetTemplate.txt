@@ -1,0 +1,22 @@
+		University of Delhi
+			Delhi
+
+Student name: <Student Name>
+programme: <Programme Name>
+Roll Number: <Roll Number>
+
+Sub1: <marks for Subject1>
+Sub2: <marks for Subject2>
+Sub3: <marks for Subject3>
+Sub4: <marks for Subject4>
+Sub5: <marks for Subject5>
+
+Total Marks: <total_marks>
+Percentage: <percentage>
+
+Year of passing: <Year>
+
+
+Date of Issue: <date of creation>
+
+Signing Authority

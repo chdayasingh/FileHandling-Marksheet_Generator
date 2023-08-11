@@ -1,0 +1,22 @@
+		University of Delhi
+			Delhi
+
+Student name: Dhruvii
+programme: MCA
+Roll Number: CS001
+
+Sub1: 92
+Sub2: 91
+Sub3: 90
+Sub4: 93
+Sub5: 92
+
+Total Marks: 458
+Percentage: 91.6
+
+Year of passing: 2024
+
+
+Date of Issue: 2023-03-13
+
+Signing Authority
